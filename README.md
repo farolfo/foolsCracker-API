@@ -1,6 +1,8 @@
 foolsCracker API
 ============
 
+(IN PROGRESS)
+
 An API that tries 'ids' and 'passwords' in many authentication systems, such as Facebook, Twitter, etc. and tells you which of them succeded.
 If you have one person's password of a site and this person REPEATS that password in another account, this API will help you cracking the fool ;)
 
